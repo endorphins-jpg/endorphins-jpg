@@ -2,14 +2,14 @@
 <h3 align="center">... front-end developer & your local metalhead.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/marialaura-rios" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="marialaura-rios"/></a>
 <a href="https://github.com/endorphins-jpg" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="endorphins-jpg"/></a>
 <a href="https://open.spotify.com/user/lostinbonerland" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="lostinbonerland"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
@@ -25,4 +25,5 @@
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/> </a>
 </p>
     
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=endorphins-jpg&show_icons=true&theme=dracula&locale=en" alt="endorphins-jpg"/></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=endorphins-jpg&show_icons=true&theme=dracula&locale=en&layout=compact" alt="endorphins-jpg"/></p>
+<div align="center">
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=endorphins-jpg&show_icons=true&theme=dracula&locale=en" alt="endorphins-jpg"/></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=endorphins-jpg&show_icons=true&theme=dracula&locale=en&layout=compact" alt="endorphins-jpg"/></p> </div>
