@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">... front-end developer & your local metalhead.</h3>
+<h3 align="center">... brazilian front-end developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
