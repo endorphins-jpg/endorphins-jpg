@@ -2,7 +2,7 @@
 <h3 align="center">... brazilian front-end developer.</h3>
 
 <p align="center">
-    <a href="https://www.last.fm/pt/user/Sawyer-T" target="_blank">
+    <a href="https://www.last.fm/pt/user/Sawyer-T" target="blank">
         <img src="https://badges.lastfm.workers.dev/last-played?user=Sawyer-T" alt="Last.fm - Last Played"/>
     </a>
 </p>
