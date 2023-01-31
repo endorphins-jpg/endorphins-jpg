@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">... brazilian front-end developer.</h3>
+<h3 align="center">... brazilian back-end developer.</h3>
 
 <p align="center">
     <a href="https://www.last.fm/pt/user/Sawyer-T">
@@ -23,49 +23,6 @@
     </a>
     <a href="https://steamcommunity.com/id/endorphineas_e_ferb/">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: endorphineas e ferb"/>
-    </a>
-</p>
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="center">
-    <a href="https://www.w3.org/html/">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    </a>
-    <a href="https://www.w3schools.com/css/">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-    </a>
-    <a href="https://getbootstrap.com">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-    </a>
-    <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-    </a>
-    <a href="https://sass-lang.com">
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
-    </a>
-    <a href="https://vuejs.org/">
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
-    </a>
-    <a href="https://www.python.org">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-    </a>
-    <a href="https://www.figma.com/">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-    </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html">
-        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator"/>
-    </a>
-    <a href="https://www.photoshop.com/en">
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/>
-    </a>
-    <a href="https://ubuntu.com/">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
     </a>
 </p>
     
